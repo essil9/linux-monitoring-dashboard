@@ -32,5 +32,7 @@ Ubuntu VM → Node Exporter → Prometheus → Grafana → Browser
 - Prometheus scraping and PromQL queries
 - Grafana dashboard configuration and alerting
 - SSH server management and Linux administration
+ ## Dashboard Screenshot
+![Dashboard](dashboard.png)
 ## Dashboard Screenshot
 ![Dashboard](dashboard.png)
